@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>ฤชากร นัคราภิบาล 66010914127</h1>
-    <button type="button" style="background: green; color: yellow;" name="Button" onclick="window.location='teacher.jpg';">GO TO reg.msu</button>
+    <button type="button" style="background: green; color: yellow;" name="Button" onclick="window.location='teacher.jpg';">teacher</button>
     <button type="button" style="background: yellow; color: green;" colour="orange" name="Button" onclick="window.location='1.jpg';">GO TO ME</button>
 
 </body>
