@@ -8,5 +8,7 @@
 <body>
     <h1>ฤชากร นัคราภิบาล 66010914127</h1>
     <button type="button" name="Button" onclick="window.location='teacher.jpg';">GO TO reg.msu</button>
+    <button type="button" name="Button" onclick="window.location='a.jpg';">GO TO ME</button>
+
 </body>
 </html>
