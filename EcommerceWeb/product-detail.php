@@ -921,15 +921,7 @@ $related_products = $rel_stmt->fetchAll(PDO::FETCH_ASSOC);
                     <div class="tab-pane fade show active" id="description" role="tabpanel">
                         <div class="product-description">
                             <h5 class="mb-3">รายละเอียดสินค้า</h5>
-                            <p><?php echo nl2br(htmlspecialchars($product['description'])); ?></p>
-                            
-                            <h5 class="mt-4 mb-3">คุณสมบัติเด่น</h5>
-                            <ul>
-                                <li>วัสดุคุณภาพสูง</li>
-                                <li>ดีไซน์ทันสมัย</li>
-                                <li>ใช้งานได้ยาวนาน</li>
-                                <li>รับประกันคุณภาพ</li>
-                            </ul>
+                            <p><?php echo nl2br(htmlspecialchars($product['description'])); ?></p>                            
                         </div>
                     </div>
                     
