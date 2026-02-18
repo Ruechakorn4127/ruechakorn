@@ -7,8 +7,8 @@
 </head>
 <body>
     <h1>ฤชากร นัคราภิบาล 66010914127</h1>
-    <button type="button" name="Button" onclick="window.location='teacher.jpg';">GO TO reg.msu</button>
-    <button type="button" name="Button" onclick="window.location='1.jpg';">GO TO ME</button>
+    <button type="button" colour="green" name="Button" onclick="window.location='teacher.jpg';">GO TO reg.msu</button>
+    <button type="button" colour="orange" name="Button" onclick="window.location='1.jpg';">GO TO ME</button>
 
 </body>
 </html>
