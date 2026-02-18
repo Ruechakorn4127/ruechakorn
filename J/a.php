@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>66010914127 ฤชากร นัคราภิบาล</h1>
-    <img src = "1.jpg"class="profile-img" height="500px">
+    <img src = "1.jpg"height="500px">
 </body>
 </html>
